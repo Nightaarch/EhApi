@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ExHentai.org</title>
+<link rel="stylesheet" type="text/css" href="https://exhentai.org/z/0372/x.css" />
+</head>
+<body>
+<script type="text/javascript">
+function popUp(URL,w,h) {
+	window.open(URL,"_pu"+(Math.random()+"").replace(/0\./,""),"toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width="+w+",height="+h+",left="+((screen.width-w)/2)+",top="+((screen.height-h)/2));
+	return false;
+}
+</script>
+<div id="nb" class="nosel"><div><a href="https://exhentai.org/">Front<span class="nbw"> Page</span></a></div><div><a href="https://exhentai.org/watched">Watched</a></div><div><a href="https://exhentai.org/popular">Popular</a></div><div><a href="https://exhentai.org/torrents.php">Torrents</a></div><div><a href="https://exhentai.org/favorites.php">Fav<span class="nbw">orite</span>s</a></div><div><a href="https://exhentai.org/uconfig.php">Settings</a></div><div><a href="https://upld.exhentai.org/upld/manage"><span class="nbw">My </span>Uploads</a></div><div><a href="https://exhentai.org/mytags">My Tags</a></div></div>
+<div class="ido">
+<div id="toppane">
+<h1 class="ih">ExHentai.org - <a href="http://exhentai55ld2wyap5juskbm67czulomrouspdacjamjeloj7ugjbsad.onion">Now With Layers</a> &nbsp;<a href="https://en.wikipedia.org/wiki/Tor_(anonymity_network)">[?]</a></h1><div id="searchbox" class="idi"><form action="https://exhentai.org/" method="get" style="margin:0px; padding:0px"><input type="hidden" id="f_cats" name="f_cats" value="0" disabled="disabled" /><table class="itc"><tr><td><div id="cat_2" class="cs ct2" onclick="toggle_category(2)">Doujinshi</div></td><td><div id="cat_4" class="cs ct3" onclick="toggle_category(4)">Manga</div></td><td><div id="cat_8" class="cs ct4" onclick="toggle_category(8)">Artist CG</div></td><td><div id="cat_16" class="cs ct5" onclick="toggle_category(16)">Game CG</div></td><td><div id="cat_512" class="cs cta" onclick="toggle_category(512)">Western</div></td></tr><tr><td><div id="cat_256" class="cs ct9" onclick="toggle_category(256)">Non-H</div></td><td><div id="cat_32" class="cs ct6" onclick="toggle_category(32)">Image Set</div></td><td><div id="cat_64" class="cs ct7" onclick="toggle_category(64)">Cosplay</div></td><td><div id="cat_128" class="cs ct8" onclick="toggle_category(128)">Asian Porn</div></td><td><div id="cat_1" class="cs ct1" onclick="toggle_category(1)">Misc</div></td></tr></table><div><input type="text" id="f_search" name="f_search" placeholder="Search Keywords" value="Ibuki to asobo" size="90" maxlength="200" /><input type="submit" value="Search" onclick="search_presubmit()" /><input type="button" value="Clear" onclick="top.location.href='https://exhentai.org/'; return false" /></div><div>[<a href="#" onclick="toggle_advsearch_pane(this); return false">Show Advanced Options</a>] &nbsp; &nbsp;[<a href="#" onclick="toggle_filesearch_pane(this); return false">Show File Search</a>]</div><div id="advdiv" style="display:none"></div></form></div><div id="fsdiv" class="idi" style="margin-top:10px; display:none"></div>
+<script type="text/javascript" src="https://exhentai.org/z/0372/ehg_index.c.js"></script>
+
+<script type="text/javascript">
+var ulhost = "https://upld.exhentai.org/upld/";
+</script>
+
+</div><div style="position:relative; z-index:2"><div id="rangebar"></div><div class="searchtext"><p>Found 1 result. </p></div>
+<script type="text/javascript">
+var prevurl="";
+var nexturl="";
+var maxdate="2024-10-22";
+var mindate="2007-03-20";
+var rangeurl="";
+var rangemin=0;
+var rangemax=98;
+var rangespan=2;
+build_rangebar();
+</script>
+<div class="searchnav">
+	<div></div>
+	<div><span id="ufirst">&lt;&lt; First</span></div><div><span id="uprev">&lt; Prev</span></div><div id="ujumpbox" class="jumpbox"><span id="ujump">Jump/Seek</span></div><div><span id="unext">Next &gt;</span></div><div><span id="ulast">Last &gt;&gt;</span></div>
+	<div><select onchange="document.location='https://exhentai.org/?f_search=Ibuki+to+asobo&amp;inline_set=dm_'+this.value+''"><option value="m">Minimal</option><option value="p">Minimal+</option><option value="l">Compact</option><option value="e" selected="selected">Extended</option><option value="t">Thumbnail</option></select></div>
+</div><table class="itg glte"><tr><td class="gl1e" style="width:250px"><div style="height:340px;width:250px"><a href="https://exhentai.org/g/3082730/326ed2e60f/"><img style="height:355px;width:250px;top:-7px" alt="(C104) [(A)C (芳よしゆき)] イブキとあそぼ (ブルーアーカイブ) [中国翻訳]" title="(C104) [(A)C (芳よしゆき)] イブキとあそぼ (ブルーアーカイブ) [中国翻訳]" src="https://s.exhentai.org/t/58/e9/58e946913357b1c9c64e326446c239d31242fe47-6837103-4189-5940-jpg_250.jpg" /></a></div></td><td class="gl2e"><div><div class="gl3e"><div class="cn ct2" onclick="document.location='https://exhentai.org/doujinshi'">Doujinshi</div><div style="border-color:#f00;background-color:rgba(240,0,0,.1)" onclick="popUp('https://exhentai.org/gallerypopups.php?gid=3082730&amp;t=326ed2e60f&amp;act=addfav',675,415)" id="posted_3082730" title="Favorites 1">2024-10-07 05:59</div><div class="ir" style="background-position:0px -21px;opacity:1"></div><div><a href="https://exhentai.org/uploader/xiaolvzong">xiaolvzong</a></div><div>15 pages</div><div class="gldown"><a href="https://exhentai.org/gallerytorrents.php?gid=3082730&amp;t=326ed2e60f" onclick="return popUp('https://exhentai.org/gallerytorrents.php?gid=3082730&amp;t=326ed2e60f', 610, 590)" rel="nofollow"><img src="https://exhentai.org/img/t.png" alt="T" title="Show torrents" /></a></div></div><a href="https://exhentai.org/g/3082730/326ed2e60f/"><div class="gl4e glname" style="min-height:348px"><div class="glink">(C104) [(A)C (芳よしゆき)] イブキとあそぼ (ブルーアーカイブ) [中国翻訳]</div><div><table><tr><td class="tc">language:</td><td><div class="gt" title="language:chinese">chinese</div><div class="gt" title="language:translated">translated</div></td></tr><tr><td class="tc">parody:</td><td><div class="gt" title="parody:blue archive">blue archive</div></td></tr><tr><td class="tc">character:</td><td><div class="gt" title="character:ibuki tanga">ibuki tanga</div></td></tr><tr><td class="tc">female:</td><td><div class="gtl" title="female:demon girl">demon girl</div><div class="gt" title="female:halo">halo</div><div class="gt" title="female:horns">horns</div><div class="gt" title="female:lolicon">lolicon</div><div class="gt" title="female:sole female">sole female</div><div class="gt" title="female:tail">tail</div><div class="gt" title="female:wings">wings</div></td></tr><tr><td class="tc">group:</td><td><div class="gt" title="group:a c">a c</div></td></tr><tr><td class="tc">artist:</td><td><div class="gt" title="artist:yoshi yoshiyuki">yoshi yoshiyuki</div></td></tr><tr><td class="tc">other:</td><td><div class="gt" title="other:full color">full color</div></td></tr></table></div></div></a></div></td></tr></table><div class="searchnav"><div></div><div><span id="dfirst">&lt;&lt; First</span></div><div><span id="dprev">&lt; Prev</span></div><div id="djumpbox" class="jumpbox"><span id="djump">Jump/Seek</span></div><div><span id="dnext">Next &gt;</span></div><div><span id="dlast">Last &gt;&gt;</span></div><div></div></div></div></div>
+<div class="dp">
+	<a href="https://exhentai.org/">Front</a>
+	
+	  &nbsp; <a href="http://exhentai55ld2wyap5juskbm67czulomrouspdacjamjeloj7ugjbsad.onion">Onion</a>
+</div>
+</body>
+</html>
